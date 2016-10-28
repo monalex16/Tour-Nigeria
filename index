@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+<title>Layout</title>
+<link href="layout.css" type="text/css" rel="stylesheet"/>
+<!--meta http-equiv="refresh" content="5"/-->
+</head>
+<body>
+	<div id="header">
+		<img src="banner1.jpg" title="image gallery" type="image/jpg" width="1330px" height="270px">
+	</div>
+	<a href="index.html"><button>Home</button></a>
+	<a href="ph.html"><button>Port-Harcourt</button></a>
+	<a href="layout.html"><button>Lagos</button></a>
+	<a href="abj.html"><button>Abuja</button></a>
+	<a href="calabar.html"><button>Calabar</button></a>
+	<div id="nav" class="navi">
+		<h2><u>Other Places</u></h2>
+		Ikeja<br/>
+		victoria Island<br/>
+		Kano<br/>
+		Ibadan<br/>
+		Kaduna<br/>
+		Asaba<br/>
+		Aba<br/>
+		Warri
+	</div>
+	<div id="section">
+		<p><h1>Lagos</h1></p>
+		<img id="ima" src="ekoat.jpg" type="image/jpeg" title="Lagos" />
+		<p> Lagos (LAY-gos),is the most populous city in Nigeria, the second fastest-growing city in Africa and the seventh in the world. The population of Lagos urban area, according to the Lagos State Government is 17.5 million, a number disputed by the Nigerian Government and judged unreliable by the National Population Commission of Nigeria.</p>
+		<p>Lagos was reported in 2014 to have a metropolitan population of 21 million, making Lagos the largest metropolitan area in Africa. </p>
+		<p> Lagos is a port which originated on islands separated by creeks, such as Lagos Island, fringing the southwest mouth of Lagos Lagoon while protected from the Atlantic Ocean by barrier islands and long sand spits such as Bar Beach, which stretch up to 100 kilometres (62 miles) east and west of the mouth.</p>
+		<p>From the beginning, Lagos has expanded on the mainland west of the lagoon and the conurbation, including Ikeja (which is the capital of Lagos State) and Agege, now reaches more than 40 kilometres (25 miles) north-west of Lagos Island. Some suburbs include Ikorodu, Epe and Badagry, and more local councils have recently been created, bringing the total number of local governments in Lagos to 57 (This includes Local Community Development Areas or LCDAs).</p>
+	</div>
+	<div id="aside" class="ass">
+		<h2><u>Advertise Here!</u></h2>
+		Ikeja<br/>
+		victoria Island<br/>
+		Kano<br/>
+		Ibadan<br/>
+		Kaduna<br/>
+		Asaba<br/>
+		Aba<br/>
+		Warri
+		<img  class="al" src="alez.jpg" title="Monalex" />
+	</div>
+	<div id="footer">
+	Copyright &copy; Monalex 2015...
+	</div>
+</body>

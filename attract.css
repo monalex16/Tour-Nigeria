@@ -1,0 +1,154 @@
+
+body {
+	background-color: #99CFD9;
+}
+#nav {
+	line-height: 30px;
+	background-color: #D946D5;
+	text-decoration: none;
+    height: 1100px;
+	width: 200px;
+	float: left;
+	padding: 5px;
+}
+.navi a {
+	font: bold 16px verdana;;
+	 text-decoration: none;
+    color: white;
+}
+.navi a:hover {
+	background-color: black;
+	color: white;
+}
+#section {
+	width: 891px;
+	padding:1px;
+	background-color: #06CFD9;
+	margin-left: 10px;
+	margin-right:10px;
+	text-align: justify;
+	height:560px;
+	float: left;
+	font: 16px verdana;
+}
+#footer {
+	background-color: black;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	position: relative;
+}
+#aside{
+	width: 200px;
+	float: right;
+	background-color: #2472D9;
+	height: 1100px;
+	line-height: 30px;
+	padding: 5px;
+	
+}
+.ass{
+	text-align: left;
+	font: 16px verdana;
+	color: #ffffff;
+}
+#aside a:hover {
+	background-color: inherit;
+}
+#aside a {
+	text-decoration: none;
+	background-color: inherit;
+	color: white;
+}
+#uil {
+    margin-left: 220px;
+    padding: 0;
+    list-style-type: none;
+    font: 16px verdana;
+}
+#uil a {
+    float: left;
+    width: 159.15px;
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: #444454;
+    padding: 0.2em 0.6em;
+    text-align: center;
+    padding-top: 10px;
+
+}
+#uil a:hover {
+    background-color: black;
+}
+#ima {
+	width: 400px;
+	float: right;
+	height: 300px;
+	padding-left: 5px;
+
+}
+.al {
+	width: 200px;
+	height:140px;
+	float: bottom;
+	margin-top: 10em;
+}
+#ama {
+	width: 400px;
+	float: right;
+	height: 300px;
+	padding-left:5px;
+	margin-left: 200px;
+	margin-top: 10px;
+}
+#vi {
+	padding: 5px;
+}
+#vi {
+	width: 255px;
+	height: 160px;
+	
+}
+#att {
+	margin-left: 10px;
+}
+h1 {
+	background-color: #1878E6;
+	color: #ffffff;
+}
+table {
+	padding: 5px;
+	margin: 5px;
+	text-align: top;
+	float: left;
+}
+tr, td {
+	padding: 10px;
+}
+h3 {
+	padding-left: 5px;
+}
+#colum1, #colum2, #colum3 {
+	-webkit-column-count: 1; 
+    -moz-column-count: 1; 
+    column-count: 1;
+
+    -webkit-column-gap: 20px; 
+    -moz-column-gap: 20px; 
+    column-gap: 20px;
+    padding: 10px;
+    float: left;
+    -webkit-column-width:260px;
+    -moz-column-width:260px;
+    column-width: 260px;
+}
+
+.ikej {
+	 height: 1240px;
+}
+#titl {
+	text-decoration: none;
+	color: black;
+}
